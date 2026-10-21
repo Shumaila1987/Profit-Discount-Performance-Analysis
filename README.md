@@ -6,7 +6,7 @@ This end‑to‑end sales‑analysis project uses the public Superstore reta
 ‑ Key fields used: Order Date, Category, Sub‑Category, Segment, Region, Profit, Discount, Quantity, Sales, Customer ID
 ‑ Data‑pre‑processing steps: Checked Customer ID validity; reviewed for missing records and negative‑value entries before loading into Power BI (cleaning workflow documented within the Power BI query steps)
 ‑ Raw dataset file  Sample‑Superstore.csv  is included within this repository folder.
- 
+  
 ## Tools & Methods
 ‑ Primary tool for this dashboard: Microsoft Power BI Desktop
 ‑ Work flow: Import raw data → quality‑check in Power Query → build data model → create consistent‑styled visuals → compile one‑page analysis dashboard
