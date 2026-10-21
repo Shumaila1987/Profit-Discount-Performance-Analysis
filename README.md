@@ -1,4 +1,4 @@
-## Profit & Discount Performance Analysis
+### Profit & Discount Performance Analysis
  
 ## Project Overview
 This end‑to‑end sales‑analysis project uses the public Superstore retail dataset to explore profit performance and discount‑distribution patterns across product groups, customer segments and geographic regions. Alongside this Power BI dashboard, I previously completed a separate customer‑segment‑level RFM analysis on the same dataset, to examine customer‑value patterns. This combined work forms portfolio practice for sales‑focused data‑analyst roles.
