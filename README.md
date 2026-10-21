@@ -1,14 +1,17 @@
 ## Profit & Discount Performance Analysis
  
 ## Project Overview
+
 This end‑to‑end sales‑analysis project uses the public Superstore retail dataset to explore profit performance and discount‑distribution patterns across product groups, customer segments and geographic regions. Alongside this Power BI dashboard, I previously completed a separate customer‑segment‑level RFM analysis on the same dataset, to examine customer‑value patterns. This combined work forms portfolio practice for sales‑focused data‑analyst roles.
  
 ## Dataset Information
+
 ‑ Source: Public Superstore retail‑sales dataset
 ‑ Key fields used: Order Date, Category, Sub‑Category, Segment, Region, Profit, Discount, Quantity, Sales, Customer ID
 ‑ Data‑pre‑processing steps: Checked Customer ID validity; reviewed for missing records and negative‑value entries before loading into Power BI (cleaning workflow documented within the Power BI query steps)
  
 ## Tools & Methods
+
 ‑ Primary tool for this dashboard: Microsoft Power BI Desktop
 ‑ Work flow: Import raw data → quality‑check in Power Query → build data model → create consistent‑styled visuals → compile one‑page analysis dashboard
 ‑ Visual design approach: Used copy‑and‑swap‑field technique to maintain unified pink‑themed styling across all charts; assigned fixed distinct colours to each geographic region for consistent reading
