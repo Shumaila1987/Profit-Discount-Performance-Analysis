@@ -34,4 +34,4 @@ This end‑to‑end sales‑analysis project uses the public Superstore reta
  
 Project created by Shumaila
 Data‑Analyst Portfolio Project ‑ October 2026
-LinkedIn: [Paste‑your‑full‑LinkedIn‑profile‑URL‑here]
+LinkedIn: [www.linkedin.com/in/shumaila-liaqat]
